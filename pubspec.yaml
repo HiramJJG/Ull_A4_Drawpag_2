@@ -1,4 +1,4 @@
-name: Jurado1079
+name: mazuca0382
 description: A new Flutter project.
 
 version: 1.0.0+1
@@ -17,6 +17,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/drawer_header.jpg
+   #  - images/a_dot_ham.jpeg
   # assets:
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
